@@ -1,0 +1,9 @@
+name: 'Duplicati'
+author: 'Peter Evans'
+description: 'A GitHub action for Duplicati - Store securely encrypted backups in the cloud!'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'upload-cloud'  
+  color: 'yellow'

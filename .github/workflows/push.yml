@@ -1,0 +1,11 @@
+name: Duplicati
+on: push
+jobs:
+  duplicati:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Duplicati
+        uses: peter-evans/duplicati@v1.0.0
+        with:
+          args: help
