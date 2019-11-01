@@ -6,6 +6,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Duplicati
-        uses: peter-evans/duplicati@v1.0.0
+        uses: ./
         with:
           args: help
