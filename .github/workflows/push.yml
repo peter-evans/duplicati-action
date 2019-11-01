@@ -8,4 +8,4 @@ jobs:
       - name: Duplicati
         uses: ./
         with:
-          args: help
+          args: help backup
