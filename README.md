@@ -1,6 +1,6 @@
 # Duplicati
 
-A GitHub action for Duplicati - Store securely encrypted backups in the cloud!
+A GitHub action for [Duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 
 ## Usage
 
