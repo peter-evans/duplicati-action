@@ -1,4 +1,4 @@
-name: 'Duplicati'
+name: 'Duplicati Action'
 author: 'Peter Evans'
 description: 'A GitHub action for Duplicati - Store securely encrypted backups in the cloud!'
 runs:
