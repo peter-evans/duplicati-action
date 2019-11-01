@@ -9,7 +9,7 @@ Arguments should be passed to the action via the `args` parameter.
 
 ```yml
     - name: Duplicati
-      uses: peter-evans/duplicati@v1.0.0
+      uses: peter-evans/duplicati-action@v1.0.0
       with:
         args: help backup
 ```
